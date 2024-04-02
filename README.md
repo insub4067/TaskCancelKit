@@ -51,8 +51,6 @@ cancelBag.cancel(id: .countThree)
 // Cancel all tasks
 cancelBag.cancelAll()
 ```
-## Advanced Usage
-(Include any advanced features or usage instructions here.)
 
 ## Contributing
 We welcome contributions to TaskCancelKit! Please read our Contributing Guide for details on how to propose bugfixes, features, and submit pull requests.
