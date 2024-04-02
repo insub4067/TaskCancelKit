@@ -14,10 +14,9 @@ Lightweight and Efficient: A minimalistic approach that's easy to integrate into
 You can add TaskCancelKit to your project via Swift Package Manager by adding the following to your Package.swift file:
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/TaskCancelKit.git", .upToNextMajor(from: "1.0.0"))
+    .package(url: "https://github.com/insub4067/TaskCancelKit.git", .upToNextMajor(from: "1.0.0"))
 ]
 ```
-Replace https://github.com/yourusername/TaskCancelKit.git with the actual URL of your repository.
 
 ## Usage
 ### Creating a Cancel Bag
